@@ -8,8 +8,9 @@
 
 Проект выполнен на основе реального датасета с вакансиями Data Science специалистов.
 
-ссылка на дата сет: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023/data
-исходные признаки дата сета:
+Ссылка на дата сет: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023/data
+---
+Исходные признаки дата сета:
 work_year: The year the salary was paid.
 experience_level: The experience level in the job during the year
 employment_type: The type of employment for the role
