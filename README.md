@@ -9,7 +9,7 @@
 Проект выполнен на основе реального датасета с вакансиями Data Science специалистов.
 
 Ссылка на дата сет: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023/data
----
+
 Исходные признаки дата сета:
 work_year: The year the salary was paid.
 experience_level: The experience level in the job during the year
@@ -47,7 +47,6 @@ company_size: The median number of people that worked for the company during the
 - low
 - mid
 - high
----
 
 ## Модели
 
@@ -64,8 +63,6 @@ company_size: The median number of people that worked for the company during the
 - MAE
 - R²
 
----
-
 ### Классификация
 - Logistic Regression
 - Random Forest
@@ -76,8 +73,6 @@ company_size: The median number of people that worked for the company during the
 - Recall
 - F1-score
 
----
-
 ## Streamlit-приложение
 
 Реализован пользовательский интерфейс, позволяющий:
@@ -87,8 +82,6 @@ company_size: The median number of people that worked for the company during the
 
 Модели используются в виде сохранённых пайплайнов (`joblib`), что гарантирует корректную обработку данных.
 
----
-
 ## Используемые технологии
 
 - Python
@@ -97,5 +90,3 @@ company_size: The median number of people that worked for the company during the
 - Streamlit
 - Joblib
 - Matplotlib, Seaborn
-
----
